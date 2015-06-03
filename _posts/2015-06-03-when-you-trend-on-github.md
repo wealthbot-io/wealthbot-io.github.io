@@ -14,9 +14,11 @@ Update: we’ve actually reached #1 :)
 
 It feels good, when your baby project becomes very “trendy” overnight.
 
-Today, we are a few stars away from being #1 in the world on github:
+Today, we just hit #1 in the world on github:
 
-Oh how trendy…
+![Screenshot of hittin that #1 spot](https://github.com/wealthbot-io/wealthbot-io.github.io/blob/master/images/1st%20on%20github.png)
+
+Oh how trendy..
 
 [wealthbot.io on github](https://github.com/wealthbot-io/wealthbot)
 
