@@ -16,7 +16,7 @@ It feels good, when your baby project becomes very “trendy” overnight.
 
 Today, we just hit #1 in the world on github:
 
-![Screenshot of hittin that #1 spot](https://github.com/wealthbot-io/wealthbot-io.github.io/blob/master/images/1st%20on%20github.png)
+![Screenshot of hittin that #1 spot](https://raw.githubusercontent.com/wealthbot-io/wealthbot-io.github.io/master/images/1st%20on%20github.png)
 
 Oh how trendy..
 
