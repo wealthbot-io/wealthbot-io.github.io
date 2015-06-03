@@ -5,7 +5,7 @@ date:   2015-06-03 19:29:56
 categories: opensource github
 ---
 
-# When you trend on github…
+When you trend on github …
 
 Update: we’ve actually reached #1 :)
 #1 trending project on github
@@ -16,7 +16,7 @@ It feels good, when your baby project becomes very “trendy” overnight.
 
 Today, we just hit #1 in the world on github:
 
-![Screenshot of hittin that #1 spot](https://raw.githubusercontent.com/wealthbot-io/wealthbot-io.github.io/master/images/1st%20on%20github.png)
+![Screenshot of hittin that #1 spot](/images/1st%20on%20github.png)
 
 Oh how trendy..
 
