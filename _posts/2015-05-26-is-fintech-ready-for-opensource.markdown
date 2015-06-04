@@ -70,7 +70,7 @@ According to Bloomberg, bankers are leaving lucrative positions for no-salary te
 
 In fact, 86 percent of the bank chief executive officers surveyed by PWC last year said technological advances will have the greatest impact on banking.
 
-I love this image entitled *Unbundling A Bank*. Sounds poetic almost.
+I love this image entitled *Unbundling of a Bank*. Sounds poetic almost.
 
 ![Bundling a Bank](/images/Unbundling-of-a-bank-V2-cropped.png)
 [By CNBC Insights](https://www.cbinsights.com/blog/disrupting-banking-fintech-startups/)
