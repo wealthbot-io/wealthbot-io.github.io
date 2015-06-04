@@ -109,11 +109,11 @@ For example, in areas such as cloud computing and big data, **innovation is bein
 # Security Concerns
 Open source software is more secure than you think. In fact, experts argue that the transparent nature of open source software does not make it any less secure.
 
-It is also important to understand that validating a software’s security  strictly depends on your ability to audit it, to review it. The audit of software depends on access to the source code. 
+It is also important to understand that validating a software’s security  strictly depends on your ability to audit it, to review it. And the audit of software depends on your access to the source code. 
 
-While a new audit of a proprietary software depends on the willingness of the owner of the software, you can audit of open source software whenever you want.
+While the audit of proprietary software depends on the cooperation of the software's owners, you can audit open source software whenever you want.
 
-This concern has become more and more severe as backdoors in well established software have been disclosed. If face of this, the ongoing debate on whether open-source software increases software security or is detrimental to its security has become pointless. Only open-source software can be freely audited and therefore, proprietary software must be considered inherently insecure.
+This concern has become more and more severe as backdoors in well established software have been disclosed. In the face of this, the ongoing debate on whether open-source software increases software security or is detrimental to its security has become pointless. Only open-source software can be freely audited and therefore, proprietary software must be considered inherently insecure.
 
 "If I look at how people break software, they don't use the source code," Dr. Ian Levy, technical director at the UK's Communications-Electronics Security Group (CESG).
 
