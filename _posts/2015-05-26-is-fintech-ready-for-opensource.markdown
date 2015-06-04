@@ -63,14 +63,12 @@ A recent report from Accenture found that global investment in fintech has skyro
 That being said, finance is nevertheless a slow-to-change industry where security concerns are always front of mind.
 
 ## FinTech in 2015
-Bankers Are Leaving Finance for No-Salary Tech Jobs because they believe the industry is ready for disruption.
+According to Bloomberg, bankers are leaving lucrative postions for no-salary tech jobs because they believe the industry is ready for disruption.
 
-"As investment firms including UBS, Royal Bank of Scotland Group Plc and Deutsche Bank AG have curtailed or shuttered lines of business, particularly in debt trading, the contractions have prompted former bankers to quit finance and put their experience to use in the new field of financial technology, or fintech."
+> As investment firms including UBS, Royal Bank of Scotland Group Plc and Deutsche Bank AG have curtailed or shuttered lines of business, particularly in debt trading, the contractions have prompted former bankers to quit finance and put their experience to use in the new field of financial technology, or fintech."
 
-"Technological advances are poised to have the greatest impact on banking, 86 percent of the bank chief executive officers surveyed by PricewaterhouseCoopers LLP last year said."
-http://www.bloomberg.com/news/articles/2015-03-15/bankers-embracing-zero-salary-in-tech-may-make-peers-obsolete
+In fact, 86 percent of the bank chief executive officers surveyed by PWC last year said technological advances will have the greatest impact on banking.
 
-### Startups to watch
 I love this image entitled *Unbundling A Bank*. Sounds poetic almost.
 
 ![Bundling a Bank](/images/Unbundling-of-a-bank-V2-cropped.png)
@@ -78,20 +76,18 @@ I love this image entitled *Unbundling A Bank*. Sounds poetic almost.
 
 Notice the large collection of wealth management startups on the right. We'll get to that a little late.
 
-Forbes covers a few startups to watch and there's probably names you've heard of: 
+Forbes covers [a few startups to watch](http://www.forbes.com/sites/ilyapozin/2014/12/14/15-fintech-startups-to-watch-in-2015/) and there's probably names you've heard of: 
 
 * Wealthfront
 * OnDeck
 * Stripe
 * Square
 
-http://www.forbes.com/sites/ilyapozin/2014/12/14/15-fintech-startups-to-watch-in-2015/
-
 So, even in this slow moving, highly regulated industry open source hasn't just found a foothold, it's an entrenched resource that most of the major players couldn't function without.
 
-Banking platforms especially rely heavily on [open source software for their infrastructuree](http://www.bankingtech.com/248232/open-source-middleware-is-everywhere-in-financial-services/).
+Banking platforms rely heavily on [open source software especially for their infrastructure](http://www.bankingtech.com/248232/open-source-middleware-is-everywhere-in-financial-services/).
 
-Finally, open source is also being used in the fascinating world of Financial Inclusion - the delivery of financial services at affordable costs to sections of disadvantaged and low-income segments of society.
+Additionally, open source is also being used in the fascinating world of Financial Inclusion - the delivery of financial services at affordable costs to sections of disadvantaged and low-income segments of society.
 
 There are many interesting examples of actual open source financial software aimed at helping to fulfill the overall mission of an open financial system. Check out [Mifos](http://mifos.org/) and [Cyclos](http://www.cyclos.org/), and [Hamlets](https://www.drupal.org/project/cforge) (developed by Community Forge), all of which are designed to help people set up their own financial institutions.
 
@@ -108,7 +104,7 @@ Now, more than ever, firms need a lower total cost of ownership for software. Pr
 
 In addition to the cost benefits that can be realized by embracing open source, financial institutions are also able to enjoy greater levels of software innovation. 
 
-For example, in areas such as cloud computing and big data, innovation is being driven by open source – in these areas of innovation it is no longer about whether to choose between a proprietary or an open source vendor, it is more about which of the open source vendors you choose.
+For example, in areas such as cloud computing and big data, **innovation is being driven by open source** – in these areas, it's no longer about whether to choose between a proprietary or an open source vendor, it's which open source vendors you choose.
 
 # Security Concerns
 Open source software is more secure than you think. In fact, experts argue that the transparent nature of open source software does not make it any less secure.
@@ -127,22 +123,23 @@ In a commercial open source environment, no member is able to commit code withou
 
 All that being said, there is no software system that is completely risk-free, but open-source software allows you to be proactive in detecting these risks.
 
-# Why Wealth Management as the next step in open source fintech
+# Why Wealth Management as the next step in open source Fintech
 The digital revolution is arriving later to wealth management than to other industries such as media and retail because the wealthiest investors are older. But 2015 looks like the year this industry is pulled into the next century, as the $41 trillion bubble of wealth works its way down to Generations X and Y.
 
 With the advent of robo advisors, the wealth management fintech segment is exploding right now.
 
-Wealthfront is [KPMGs 2014 innovator of the year](http://fintechinnovators.com/company/wealthfront).
-
-Schwab just released their own ["intelligent" portfolio](https://intelligent.schwab.com/). (I'll debate the intelligence of their portfolio a little lower.)
+Wealthfront is [KPMGs 2014 innovator of the year](http://fintechinnovators.com/company/wealthfront). Schwab just released their own ["intelligent" portfolio](https://intelligent.schwab.com/). (I'll debate the intelligence of their portfolio a little lower.) And it seems there's a new robo advisor on the block every day.
 
 At the same time, possibly due to improved investor education through resources like [r/personal_finance](http://www.reddit.com/r/personalfinance) and the [Boggle head forums](https://www.bogleheads.org/), there's a trend away from sales oriented brokers to fee only investor advisors (aka wealth managers) with a fiduciary duty to the investor.
 
+## Robots vs. Humans
 Robo advisors compete with investment advisors on the basis of lower costs and on the basis of higher trustworthiness. 
 
-The truth however, is more nuanced. A computer can't have an ulterior motive or a conflict of interest, but with brokers and others that make a commission your investment, that can't always be said about humans. 
+A computer can't have an ulterior motive or a conflict of interest, but with brokers and others that make a commission your investment, that can't always be said about humans. The real story though (as tends to be the case) is more nuanced. 
 
-However, what happens if automation is just used to hide the conflict of interest? As we see in [Adam Nash's teardown of Schwabs Intelligent Portfolio](https://medium.com/@adamnash/broken-values-bottom-lines-3d550a27629), there's other ways to extract a profit out the unwary investor.
+Let's get back to Schwab's Intelligent Portfolio.
+
+What happens if automation is used to hide the conflict of interest? As we see in [Adam Nash's teardown of Schwab's service](https://medium.com/@adamnash/broken-values-bottom-lines-3d550a27629), there's other ways to extract a profit out the unwary investor.
 
 > Cash has a significant chance of a negative real return over time due to inflation risk.
 
@@ -159,13 +156,13 @@ And yet, Schwab's new offering requires a cash position from a minimum of 6% to 
 # A different way
 We believe the future of wealth management is the cyborg advisor. A human that uses technology to **enhance relationships** and scale **personalized service**.
 
-In my opinion, the robo advisor is becoming a commodity. Another robo advisor emailed me the other day, this time offering **zero fees** on their core service. As the functionality of robo advisors becomes commoditized, the fee for providing this functionality must drop to near zero. 
+In my opinion, the robo advisor is becoming a commodity. Another robo advisor emailed me the other day, this time offering **zero fees** on their core service. In fact, the fee for providing this functionality must drop to near zero as the functionality becomes commoditized.
 
 It's for this reason that, although today each is a tech news darling, a single robo advisor will not come to dominate the wealth management industry. The industry will continue to be served by a combination of automation and human interaction. The advisor, the human element will never be obsolete. 
 
-As for this basic portfolio management functionality (the robo advisor), in the long run, it will be the robo advisor "makers" that will profit from this technology. Just as Magento became THE platform for creating shopping carts, WordPress became THE platform for creating websites, [wealthbot.io](http://wealthbot.io) will become THE platform for managing portfolios.
+As for the basic portfolio management functionality (the robo advisor)? It will be the robo advisor "makers" that profit from the tech. Just as Magento became THE platform for creating shopping carts, WordPress became THE platform for creating websites, [wealthbot.io](http://wealthbot.io) will become THE platform for managing portfolios.
 
 It's the makers, the community of developers around each platform that bring and extract the most value from the technology. Our goal is for wealthbot.io to be at the center of this community.
 
-With this in mind I'd like to introduce wealthbot.io - Wealth Management, Set Free.
+With that in mind I'd like to introduce wealthbot.io - Wealth Management, Set Free.
 
