@@ -4,7 +4,7 @@ title:  "Is Fintech Ready For Open Source?"
 date:   2015-05-26 19:29:56
 categories: opensource fintech
 ---
-TL;DR: Yes! And wealthbot.io is the platform to prove that out.
+TL;DR: Yes! And [wealthbot.io](http://wealthbot.io) is the platform to prove that out.
 
 > Is Fintech ready for Open Source?
 
