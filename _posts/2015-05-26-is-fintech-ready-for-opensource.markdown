@@ -74,7 +74,7 @@ I love this image entitled *Unbundling A Bank*. Sounds poetic almost.
 ![Bundling a Bank](/images/Unbundling-of-a-bank-V2-cropped.png)
 [By CNBC Insights](https://www.cbinsights.com/blog/disrupting-banking-fintech-startups/)
 
-Notice the large collection of wealth management startups on the right. We'll get to that a little late.
+Notice the large collection of wealth management startups on the right. We'll get to that a little later.
 
 Forbes covers [a few startups to watch](http://www.forbes.com/sites/ilyapozin/2014/12/14/15-fintech-startups-to-watch-in-2015/) and there's probably names you've heard of: 
 
