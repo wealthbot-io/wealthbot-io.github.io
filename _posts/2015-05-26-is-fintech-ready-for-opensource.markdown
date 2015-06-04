@@ -30,7 +30,7 @@ So instead of asking, we decided to find out for ourselves. But more on that lat
 
 Linus Torvalds said this when he released the Linux source code to "the wild". At the time that meant posting it on a Usenet newsgroup, today he'd probably upload it to Github. 
 
-Of course Linus didn't invent the concept of open source, that honor is split among early day programmers who believed that the more eyes on the code the better. The open source movement was launched by Richard Stallman in 1983.
+Of course Linus didn't invent the concept of open source, that honor is split among early day programmers who believed that the more eyes on the code the better. And the open source movement itself was launched by Richard Stallman in 1983.
 
 But Linus contribution could be considered the most influential. 
 
