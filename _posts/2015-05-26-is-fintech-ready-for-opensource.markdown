@@ -42,14 +42,16 @@ Open source software is software whose source code is available for modification
 "Source code" is the part of software that most computer users don't ever see; it's the code computer programmers can manipulate to change how a piece of software—a "program" or "application"—works. Programmers who have access to a computer program's source code can improve that program by adding features to it or fixing parts that don't always work correctly.
 
 ## Current state of open source software, 50,000 foot view.
-Over the years, open source software has often surpassed it's private competition in terms of security, reliability and utility. It's also slowly evolved from back-end building block (think Linux, Apache, PHP) reserved for the techiest of techies, into an effective tool for every user at every level of the full stack.
+Over the years, open source software has often surpassed its private competition in terms of security, reliability and utility. It's also slowly evolved from back-end building block (think Linux, Apache, PHP) reserved for the techiest of techies, into an effective tool for every user at every level of the full stack.
 
  Good examples of open-source products are: 
- * Apache HTTP Server, 
- * the e-commerce platform Magento, 
- * internet browsers Mozilla Firefox and Chromium (the project where the vast majority of development of the freeware Google Chrome is done) 
- * the full office suite LibreOffice
+
+ * Internet browsers Mozilla Firefox and Google Chrome (Chromium, technically)
  * Wordpress, the content management system powering 30% of the world's websites
+ * E-commerce platform Magento
+ * Android
+ * LibreOffice
+ * Apache HTTP Server
 
 # What is Fintech?
 ![fintech google trends](/images/Google_Trends_-_Web_Search_interest__fintech_-_Worldwide__2004_-_present.png)
