@@ -115,7 +115,7 @@ While the audit of proprietary software depends on the cooperation of the softwa
 
 This concern has become more and more severe as backdoors in well established software have been disclosed. In the face of this, the ongoing debate on whether open-source software increases software security or is detrimental to its security has become pointless. Only open-source software can be freely audited and therefore, proprietary software must be considered inherently insecure.
 
-"If I look at how people break software, they don't use the source code," Dr. Ian Levy, technical director at the UK's Communications-Electronics Security Group (CESG).
+> If I look at how people break software, they don't use the source code. ~ Dr. Ian Levy, technical director at the UK's Communications-Electronics Security Group (CESG).
 
 In fact, there’s a concept in software development known as "Linus' law" that says "given enough eyes, all bugs are shallow.”
 
