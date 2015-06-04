@@ -87,13 +87,14 @@ So, even in this slow moving, highly regulated industry open source hasn't just 
 
 Banking platforms rely heavily on [open source software especially for their infrastructure](http://www.bankingtech.com/248232/open-source-middleware-is-everywhere-in-financial-services/).
 
-Additionally, open source is also being used in the fascinating world of Financial Inclusion - the delivery of financial services at affordable costs to sections of disadvantaged and low-income segments of society.
+Finally, we're especially impressed by the polish of [Opengamma](http://www.opengamma.com/), the open source risk and analytics platform. The high-profile funding they have received from industry leaders shows how far we have come in embracing open-source as a viable approach.
+
+### An aside: Financial Inclusion
+Open source is also being used in the fascinating world of Financial Inclusion - the delivery of financial services at affordable costs to sections of disadvantaged and low-income segments of society.
 
 There are many interesting examples of actual open source financial software aimed at helping to fulfill the overall mission of an open financial system. Check out [Mifos](http://mifos.org/) and [Cyclos](http://www.cyclos.org/), and [Hamlets](https://www.drupal.org/project/cforge) (developed by Community Forge), all of which are designed to help people set up their own financial institutions.
 
 A leader in the financial inclusion movement is the Mifos Initiative - a community-driven initiative that is positioning financial institutions to become modern and digitally connected providers of financial services to the poor. They publish the Mifos X open source platform, which is distributed for free and covers common financial inclusion needs.
-
-Finally, we're especially impressed by the polish of [Opengamma](http://www.opengamma.com/), the open source risk and analytics platform. The high-profile funding they have received from industry leaders shows how far we have come in embracing open-source as a viable approach.
 
 # Why open source for Fintech?
 >The disruption we may expect to see on the horizon is for firms to move from mere consumers of OSS to major co-developers, like their silicon valley  counterparts.”  ~ Jamie Edwards 
