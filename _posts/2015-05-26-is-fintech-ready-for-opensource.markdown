@@ -73,7 +73,7 @@ http://www.bloomberg.com/news/articles/2015-03-15/bankers-embracing-zero-salary-
 ### Startups to watch
 I love this image entitled *Unbundling A Bank*. Sounds poetic almost.
 
-![Bundling a Bank](/images/Google_Trends_-_Web_Search_interest__fintech_-_Worldwide__2004_-_present.png)
+![Bundling a Bank](/images/Unbundling-of-a-bank-V2-cropped.png)
 [By CNBC Insights](https://www.cbinsights.com/blog/disrupting-banking-fintech-startups/)
 
 Notice the large collection of wealth management startups on the right. We'll get to that a little late.
@@ -157,6 +157,8 @@ And yet, Schwab's new offering requires a cash position from a minimum of 6% to 
 *To find the answer, follow the money.*
 
 # A different way
+We believe the future of wealth management is the cyborg advisor. A human that uses technology to **enhance relationships** and scale **personalized service**.
+
 In my opinion, the robo advisor is becoming a commodity. Another robo advisor emailed me the other day, this time offering **zero fees** on their core service. As the functionality of robo advisors becomes commoditized, the fee for providing this functionality must drop to near zero. 
 
 It's for this reason that, although today each is a tech news darling, a single robo advisor will not come to dominate the wealth management industry. The industry will continue to be served by a combination of automation and human interaction. The advisor, the human element will never be obsolete. 
