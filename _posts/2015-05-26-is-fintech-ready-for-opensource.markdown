@@ -166,5 +166,5 @@ As for the basic portfolio management functionality (the robo advisor)? It will 
 
 It's the makers, the community of developers around each platform that bring and extract the most value from the technology. Our goal is for wealthbot.io to be at the center of this community.
 
-With that in mind I'd like to introduce wealthbot.io - Wealth Management, Set Free.
+With that in mind I'd like to introduce [wealthbot.io](http://wealthbot.io) - *Wealth Management, Set Free*.
 
