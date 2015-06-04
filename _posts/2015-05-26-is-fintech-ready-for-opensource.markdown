@@ -123,7 +123,7 @@ In a commercial open source environment, no member is able to commit code withou
 
 All that being said, there is no software system that is completely risk-free, but open-source software allows you to be proactive in detecting these risks.
 
-# Why Wealth Management as the next step in open source Fintech
+# Why Wealth Management as the next step in open source Fintech?
 The digital revolution is arriving later to wealth management than to other industries such as media and retail because the wealthiest investors are older. But 2015 looks like the year this industry is pulled into the next century, as the $41 trillion bubble of wealth works its way down to Generations X and Y.
 
 With the advent of robo advisors, the wealth management fintech segment is exploding right now.
@@ -153,7 +153,7 @@ And yet, Schwab's new offering requires a cash position from a minimum of 6% to 
 
 *To find the answer, follow the money.*
 
-# A different way
+# A different way...
 We believe the future of wealth management is the cyborg advisor. A human that uses technology to **enhance relationships** and scale **personalized service**.
 
 In my opinion, the robo advisor is becoming a commodity. Another robo advisor emailed me the other day, this time offering **zero fees** on their core service. In fact, the fee for providing this functionality must drop to near zero as the functionality becomes commoditized.
