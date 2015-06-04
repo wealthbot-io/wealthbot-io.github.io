@@ -96,7 +96,7 @@ There are many interesting examples of actual open source financial software aim
 A leader in the financial inclusion movement is the Mifos Initiative - a community-driven initiative that is positioning financial institutions to become modern and digitally connected providers of financial services to the poor. They publish the Mifos X open source platform, which is distributed for free and covers common financial inclusion needs.
 
 # Why open source for Fintech?
->The disruption we may expect to see on the horizon is for firms to move from mere consumers of OSS to major co-developers, like their silicon valley  counterparts.”  ~ Jamie Edwards 
+>The disruption we may expect to see on the horizon is for firms to move from mere consumers of OSS to major co-developers, like their silicon valley  counterparts.  ~ Jamie Edwards 
 
 Finance firms want to avoid vendor lock-in. When you deploy an open source project, you control the code. You have the freedom to go without the developer, or to choose a third-party integration partner, if that’s what makes the most sense to your business.
 
