@@ -10,9 +10,9 @@ TL;DR: Yes! And [wealthbot.io](http://wealthbot.io) is the platform to prove tha
 
 The first time I asked this question was in Tisch Hall at the NYU Stern School of Business at an entrepreneurship festival. 
 
-The topic of conversation was “Innovation in Financial Technology”. 
+The topic of conversation was “Fintech Ventures – Making Money with Money”. 
 
-The panel included innovators like Eli W of Betterment, X of small bank... 
+The panel included innovators Eli Brovermen of Betterment, Vince Passione of LendKey and Vinay Patel of One Financial Holdings. 
 
 The auditorium was packed. 
 
@@ -22,9 +22,11 @@ I've been asking the question since. I've asked lawyers and fintech meetup group
 
 Sometime I get better than maybe, I get "That's a great idea, but how will you make money?" 
 
-So instead of asking, we decided to find out for ourselves. But more on that later. First, let's go back to the beginning. 
+So instead of asking, we decided to find out for ourselves. But more on that later. First, let's go back to the beginning.
 
-> I'm doing a (free) operating system (just a hobby, won't be big and professional ...
+# The Beginning, Sort of
+
+> I'm doing a (free) operating system (just a hobby, won't be big and professional) ...
 
 Linus Torvalds said this when he released the Linux source code to "the wild". At the time that meant posting it on a Usenet newsgroup, today he'd probably upload it to Github. 
 
@@ -39,7 +41,7 @@ Open source software is software whose source code is available for modification
 
 "Source code" is the part of software that most computer users don't ever see; it's the code computer programmers can manipulate to change how a piece of software—a "program" or "application"—works. Programmers who have access to a computer program's source code can improve that program by adding features to it or fixing parts that don't always work correctly.
 
-# Current state of open source software, 50,000 foot view.
+## Current state of open source software, 50,000 foot view.
 Over the years, open source software has often surpassed it's private competition in terms of security, reliability and utility. It's also slowly evolved from back-end building block (think Linux, Apache, PHP) reserved for the techiest of techies, into an effective tool for every user at every level of the full stack.
 
  Good examples of open-source products are: 
@@ -50,7 +52,6 @@ Over the years, open source software has often surpassed it's private competitio
  * Wordpress, the content management system powering 30% of the world's websites
 
 # What is Fintech?
-
 ![fintech google trends](/images/Google_Trends_-_Web_Search_interest__fintech_-_Worldwide__2004_-_present.png)
 
 A contraction of the words finance and technology, fintech has become  increasingly bandied about in the media and in technology circles. Yet despite being in vogue, it's a term many – including tech savvy and clued up entrepreneurs – don't quite have a handle on. Indeed, it's a fresh enough term to not yet feature in the online version of the Oxford dictionary
@@ -62,7 +63,7 @@ A recent report from Accenture found that global investment in fintech has skyro
 
 That being said, finance is nevertheless a slow-to-change industry where security concerns are always front of mind.
 
-## FinTech in 2015
+## Fintech in 2015
 According to Bloomberg, bankers are leaving lucrative postions for no-salary tech jobs because they believe the industry is ready for disruption.
 
 > As investment firms including UBS, Royal Bank of Scotland Group Plc and Deutsche Bank AG have curtailed or shuttered lines of business, particularly in debt trading, the contractions have prompted former bankers to quit finance and put their experience to use in the new field of financial technology, or fintech."
@@ -89,7 +90,7 @@ Banking platforms rely heavily on [open source software especially for their inf
 
 Finally, we're especially impressed by the polish of [Opengamma](http://www.opengamma.com/), the open source risk and analytics platform. The high-profile funding they have received from industry leaders shows how far we have come in embracing open-source as a viable approach.
 
-### An aside: Financial Inclusion
+### An Aside: Financial Inclusion
 Open source is also being used in the fascinating world of Financial Inclusion - the delivery of financial services at affordable costs to sections of disadvantaged and low-income segments of society.
 
 There are many interesting examples of actual open source financial software aimed at helping to fulfill the overall mission of an open financial system. Check out [Mifos](http://mifos.org/) and [Cyclos](http://www.cyclos.org/), and [Hamlets](https://www.drupal.org/project/cforge) (developed by Community Forge), all of which are designed to help people set up their own financial institutions.
