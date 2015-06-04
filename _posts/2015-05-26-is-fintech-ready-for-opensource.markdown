@@ -78,44 +78,37 @@ I love this image entitled *Unbundling A Bank*. Sounds poetic almost.
 
 Notice the large collection of wealth management startups on the right. We'll get to that a little late.
 
-Forbes covers a few startups to watch and there's probably names you've heard of
+Forbes covers a few startups to watch and there's probably names you've heard of: 
+
+* Wealthfront
+* OnDeck
+* Stripe
+* Square
+
 http://www.forbes.com/sites/ilyapozin/2014/12/14/15-fintech-startups-to-watch-in-2015/
 
-# Why open source for Fintech?
+So, even in this slow moving, highly regulated industry open source hasn't just found a foothold, it's an entrenched resource that most of the major players couldn't function without.
 
->The disruption we may expect to see on the horizon is for firms to move from mere consumers of OSS to major co-developers, like their silicon valley  counterparts.”  ~ Jamie Edwards 
+Banking platforms especially rely heavily on [open source software for their infrastructuree](http://www.bankingtech.com/248232/open-source-middleware-is-everywhere-in-financial-services/).
 
-Firms want to avoid vendor lock-in. When you deploy an open source project, you control the code. You have the freedom to go without the developer, or to choose a third-party integration partner, if that’s what makes the most sense to your business.
+Finally, open source is also being used in the fascinating world of Financial Inclusion - the delivery of financial services at affordable costs to sections of disadvantaged and low-income segments of society.
 
-Now, more than ever, firms need a lower total cost of ownership for software. Price competition is razor sharp and firms can't afford to spend cash on outdated license models. Breaking down monopolies tends to result in lower costs for end users. Open Source doesn’t equal Free, but it does usually mean a radically smaller price tag.
-
-In addition to the cost benefits that can be realized by embracing open source, financial institutions are also able to enjoy greater levels of software innovation. 
-
-For example, in areas such as cloud computing and big data, innovation is being driven by open source – in these areas of innovation it is no longer about whether to choose between a proprietary or an open source vendor, it is more about which of the open source vendors you choose."
-
-"If they purchase new x86 commodity based hardware and migrate to a Linux operating system with an open source software stack on top, the ROI can be less than a year."
-
-## Open source middleware is everywhere in financial services
-http://www.bankingtech.com/248232/open-source-middleware-is-everywhere-in-financial-services/
-Current Open source FinTech projects - full stack exploration
-
-Even in this slow moving, highly regulated industry open source hasn't just found a foothold, it's an entrenched resource that most of the major players couldn't function without.
-
-Banking platforms rely heavily on open source software for their infrastructure…
-
-
-
-What about newer players in Fintech? Just take a look at these builtwith profiles:
-http://builtwith.com/mint.com
-http://builtwith.com/betterment.com
-
-Additionally, open source is also being used in the fascinating world of Financial Inclusion - the delivery of financial services at affordable costs to sections of disadvantaged and low-income segments of society.
-
-There are many interesting examples of actual open source financial software aimed at helping to fulfill the overall mission of an open financial system. Check out Mifos and Cyclos, and Hamlets (developed by Community Forge), all of which are designed to help people set up their own financial institutions.
+There are many interesting examples of actual open source financial software aimed at helping to fulfill the overall mission of an open financial system. Check out [Mifos](http://mifos.org/) and [Cyclos](http://www.cyclos.org/), and [Hamlets](https://www.drupal.org/project/cforge) (developed by Community Forge), all of which are designed to help people set up their own financial institutions.
 
 A leader in the financial inclusion movement is the Mifos Initiative - a community-driven initiative that is positioning financial institutions to become modern and digitally connected providers of financial services to the poor. They publish the Mifos X open source platform, which is distributed for free and covers common financial inclusion needs.
 
-Finally, we're especially impressed by the polish of Opengamma, the open source risk and analytics platform. The high-profile funding they have received from industry leaders shows how far we have come in embracing open-source as a viable approach.
+Finally, we're especially impressed by the polish of [Opengamma](http://www.opengamma.com/), the open source risk and analytics platform. The high-profile funding they have received from industry leaders shows how far we have come in embracing open-source as a viable approach.
+
+# Why open source for Fintech?
+>The disruption we may expect to see on the horizon is for firms to move from mere consumers of OSS to major co-developers, like their silicon valley  counterparts.”  ~ Jamie Edwards 
+
+Finance firms want to avoid vendor lock-in. When you deploy an open source project, you control the code. You have the freedom to go without the developer, or to choose a third-party integration partner, if that’s what makes the most sense to your business.
+
+Now, more than ever, firms need a lower total cost of ownership for software. Price competition is razor sharp and firms can't afford to spend cash on outdated license models. Breaking down monopolies tends to result in lower costs for end users. Open source doesn’t equal free, but it does usually mean a radically smaller price tag.
+
+In addition to the cost benefits that can be realized by embracing open source, financial institutions are also able to enjoy greater levels of software innovation. 
+
+For example, in areas such as cloud computing and big data, innovation is being driven by open source – in these areas of innovation it is no longer about whether to choose between a proprietary or an open source vendor, it is more about which of the open source vendors you choose.
 
 # Security Concerns
 Open source software is more secure than you think. In fact, experts argue that the transparent nature of open source software does not make it any less secure.
@@ -124,9 +117,7 @@ It is also important to understand that validating a software’s security  stri
 
 While a new audit of a proprietary software depends on the willingness of the owner of the software, you can audit of open source software whenever you want.
 
-This concern has become more and more severe as backdoors in well established software have been disclosed. If face of this, the ongoing debate on whether open-source software increases software security or is detrimental to its security has become pointless. Even though some of the arguments on either side are subjective and no relationship between number of vulnerabilities in an application and its open-source/proprietary status has been observed, both of them may contain backdoors. However, only open-source software can be freely audited and therefore, proprietary software must be considered inherently insecure.
-
-https://www.schneier.com/crypto-gram/archives/1999/0915.html#OpenSourceandSecurity
+This concern has become more and more severe as backdoors in well established software have been disclosed. If face of this, the ongoing debate on whether open-source software increases software security or is detrimental to its security has become pointless. Only open-source software can be freely audited and therefore, proprietary software must be considered inherently insecure.
 
 "If I look at how people break software, they don't use the source code," Dr. Ian Levy, technical director at the UK's Communications-Electronics Security Group (CESG).
 
@@ -137,49 +128,42 @@ In a commercial open source environment, no member is able to commit code withou
 All that being said, there is no software system that is completely risk-free, but open-source software allows you to be proactive in detecting these risks.
 
 # Why Wealth Management as the next step in open source fintech
-With the advent of robo-advisors, the wealth management fintech segment is exploding right now.
+The digital revolution is arriving later to wealth management than to other industries such as media and retail because the wealthiest investors are older. But 2015 looks like the year this industry is pulled into the next century, as the $41 trillion bubble of wealth works its way down to Generations X and Y.
 
-Wealthfront is KPMGs 2014 innovator of the year.
-Schwab just released their own "intelligent" portfolio.
-And let's not forget about the entrenched TAMP players or legacy wealth management software that exists at firms like Merrill Lynch and xxxEdward Jones
+With the advent of robo advisors, the wealth management fintech segment is exploding right now.
 
-At the same time, possibly due to improved investor education through resources like r/personal_finance and the boggle head forums, there's a trend away from sales oriented brokers to fee only investor advisors (aka wealth managers) with a fiduciary duty to the investor.
+Wealthfront is [KPMGs 2014 innovator of the year](http://fintechinnovators.com/company/wealthfront).
 
-They are digital natives — they start digital, and build a business around a flexible core, taking mobility, social media, the web, and aggregated data for granted. While traditional banks anchored by cumbersome technology lumber to catch up, these fintech companies are leveraging social media and other technology to enable interactions that are entirely reshaping customer relationships.
+Schwab just released their own ["intelligent" portfolio](https://intelligent.schwab.com/). (I'll debate the intelligence of their portfolio a little lower.)
 
-In addition, the digital revolution is arriving later to wealth management than to other industries such as media and retail
-because the wealthiest investors are older. However, as a $41 trillion bubble of wealth works its way down to Generations X and Y, it will behoove banks to cater to these populations who have grown up with technology, often prefer online services, and eschew relationships with traditional advisers.
-
-Robo-advisors are taking the industry by storm. They are agile, powerful, and fast. And they are terrifyingly accurate.
-But, they are also remote. Armed with the right tools, traditional advisors are ten times stronger because they have
-the all-important quality of emotional intelligence to add to the mix.
-http://solutions.yodlee.com/rs/yodlee/images/WP_Investment-Data-Quality_v1_R3.pdf
-
+At the same time, possibly due to improved investor education through resources like [r/personal_finance](http://www.reddit.com/r/personalfinance) and the [Boggle head forums](https://www.bogleheads.org/), there's a trend away from sales oriented brokers to fee only investor advisors (aka wealth managers) with a fiduciary duty to the investor.
 
 Robo advisors compete with investment advisors on the basis of lower costs and on the basis of higher trustworthiness. 
 
-The truth is. a computer can't have an ulterior motive or a conflict of interest, but  with brokers and others that make a commission your investment, that can't always be said about humans. 
+The truth however, is more nuanced. A computer can't have an ulterior motive or a conflict of interest, but with brokers and others that make a commission your investment, that can't always be said about humans. 
 
-However, what happens if automation is just used to hide the conflict of interest? As we see in Adam Nashs teardown of Schwabs intelligent portfolio, there's other ways to extract a profit out the unwary investor.
+However, what happens if automation is just used to hide the conflict of interest? As we see in [Adam Nash's teardown of Schwabs Intelligent Portfolio](https://medium.com/@adamnash/broken-values-bottom-lines-3d550a27629), there's other ways to extract a profit out the unwary investor.
 
-“Cash has a significant chance of a negative real return over time due to inflation risk.
+> Cash has a significant chance of a negative real return over time due to inflation risk.
 
 Cash assets can present a conflict of interest when the investment manager is advising cash and then re-investing it for its own revenue.
 
-‘In a research paper published in Financial Analysts Journal last year, Vanguard founder John Bogle cited cash drag as one of the ways investors are not making the most of their investments.¹”
+In a research paper published in Financial Analysts Journal last year, Vanguard founder John Bogle cited cash drag as one of the ways investors are not making the most of their investments.
 
-“One recent example is with Schwab’s new automated portfolio, one of the latest imitators of Betterment’s automated investing technology. Its new offering requires a cash position from a minimum of 6% to as much as 30% cash, according to Schwab’s disclosures.³”
-https://www.betterment.com/resources/investment-strategy/the-real-cost-of-cash-drag/
+And yet, Schwab's new offering requires a cash position from a minimum of 6% to as much as 30% cash, according to Schwab’s disclosures.
 
 “Why would an investment service purposely not invest almost a third of your account?”
 
-To find the answer, Follow the money.
+*To find the answer, follow the money.*
 
+# A different way
+In my opinion, the robo advisor is becoming a commodity. Another robo advisor emailed me the other day, this time offering **zero fees** on their core service. As the functionality of robo advisors becomes commoditized, the fee for providing this functionality must drop to near zero. 
 
-“You might not know this, but Charles Schwab no longer makes most of its money from trading or commissions. In fact, it generates over $1.7 billion per year from net interest revenue, almost 3x what it makes on trading commissions.”
-https://medium.com/@adamnash/broken-values-bottom-lines-3d550a27629
+It's for this reason that, although today each is a tech news darling, a single robo advisor will not come to dominate the wealth management industry. The industry will continue to be served by a combination of automation and human interaction. The advisor, the human element will never be obsolete. 
 
-That's why not only is fintech ready for open source but also why in our opinion, the wealth management segment specifically will be a fantastic proving ground for the next fintech open sourced platform.
+As for this basic portfolio management functionality (the robo advisor), in the long run, it will be the robo advisor "makers" that will profit from this technology. Just as Magento became THE platform for creating shopping carts, WordPress became THE platform for creating websites, [wealthbot.io](http://wealthbot.io) will become THE platform for managing portfolios.
+
+It's the makers, the community of developers around each platform that bring and extract the most value from the technology. Our goal is for wealthbot.io to be at the center of this community.
 
 With this in mind I'd like to introduce wealthbot.io - Wealth Management, Set Free.
 
