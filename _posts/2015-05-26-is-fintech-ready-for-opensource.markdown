@@ -61,10 +61,8 @@ source: http://www.ndrc.ie/2014/03/fintech/
 
 A recent report from Accenture found that global investment in fintech has skyrocketed from $930 million back in 2008 to nearly $3 billion in 2013. The UK and Ireland alone received over $700 million from investors between 2008 and 2013.
 
-That being said, finance is nevertheless a slow-to-change industry where security concerns are always front of mind.
-
 ## Fintech in 2015
-According to Bloomberg, bankers are leaving lucrative postions for no-salary tech jobs because they believe the industry is ready for disruption.
+According to Bloomberg, bankers are leaving lucrative positions for no-salary tech jobs because they believe the industry is ready for disruption.
 
 > As investment firms including UBS, Royal Bank of Scotland Group Plc and Deutsche Bank AG have curtailed or shuttered lines of business, particularly in debt trading, the contractions have prompted former bankers to quit finance and put their experience to use in the new field of financial technology, or fintech."
 
@@ -84,11 +82,11 @@ Forbes covers [a few startups to watch](http://www.forbes.com/sites/ilyapozin/20
 * Stripe
 * Square
 
-So, even in this slow moving, highly regulated industry open source hasn't just found a foothold, it's an entrenched resource that most of the major players couldn't function without.
+So, even in this slow moving, highly regulated industry, open source hasn't just found a foothold, it's an entrenched resource that most of the major players couldn't function without.
 
 Banking platforms rely heavily on [open source software especially for their infrastructure](http://www.bankingtech.com/248232/open-source-middleware-is-everywhere-in-financial-services/).
 
-Finally, we're especially impressed by the polish of [Opengamma](http://www.opengamma.com/), the open source risk and analytics platform. The high-profile funding they have received from industry leaders shows how far we have come in embracing open-source as a viable approach.
+Finally, I'm especially impressed by the polish of [Opengamma](http://www.opengamma.com/), the open source risk and analytics platform. The high-profile funding they have received from industry leaders shows how far the industry has come in embracing open-source as a viable approach in Fintech.
 
 ### An Aside: Financial Inclusion
 Open source is also being used in the fascinating world of Financial Inclusion - the delivery of financial services at affordable costs to sections of disadvantaged and low-income segments of society.
@@ -128,7 +126,7 @@ All that being said, there is no software system that is completely risk-free, b
 # Why Wealth Management as the next step in open source Fintech?
 The digital revolution is arriving later to wealth management than to other industries such as media and retail because the wealthiest investors are older. But 2015 looks like the year this industry is pulled into the next century, as the $41 trillion bubble of wealth works its way down to Generations X and Y.
 
-With the advent of robo advisors, the wealth management fintech segment is exploding right now.
+With the advent of robo advisors, the wealth management Fintech segment is exploding right now.
 
 Wealthfront is [KPMGs 2014 innovator of the year](http://fintechinnovators.com/company/wealthfront). Schwab just released their own ["intelligent" portfolio](https://intelligent.schwab.com/). (I'll debate the intelligence of their portfolio a little lower.) And it seems there's a new robo advisor on the block every day.
 
