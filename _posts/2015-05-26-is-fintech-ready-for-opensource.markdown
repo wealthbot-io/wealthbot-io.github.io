@@ -21,7 +21,7 @@ I've been asking the question ever since. I've asked lawyers and fintech meetup 
 
 Sometime I get better than “maybe,” - sometimes I get “That's a great idea, but how will you make money?”
 
-So instead of asking, we decided to find out for ourselves. Here’s how it started: 
+So instead of asking, we decided to find out for ourselves. But first, let's go back to the beginning. 
 
 # The Beginning, Sort of
 
