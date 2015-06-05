@@ -6,7 +6,7 @@ categories: opensource fintech
 ---
 TL;DR: Yes! And [wealthbot.io](http://wealthbot.io) is the platform to prove that out.
 
-> Is Fintech ready for Open Source?
+> Is fintech ready for Open Source?
 
 The first time I asked this question was at a packed entrepreneurship festival l at the NYU Stern School of Business. 
 
@@ -23,7 +23,7 @@ Sometime I get better than “maybe,” - sometimes I get “That's a great idea
 
 So instead of asking, we decided to find out for ourselves. But first, let's go back to the beginning. 
 
-# The Beginning, Sort of
+# The beginning, sort of
 
 > I'm doing a (free) operating system (just a hobby, won't be big and professional) ...
 
@@ -52,7 +52,7 @@ Over the years, open source software has often surpassed its private competition
  * LibreOffice
  * Apache HTTP Server
 
-# What is Fintech?
+# What is fintech?
 ![fintech google trends](/images/Google_Trends_-_Web_Search_interest__fintech_-_Worldwide__2004_-_present.png)
 
 A portmanteau of the words “finance” and “technology,” fintech has become  increasingly bandied about in the media and in technology circles. Yet despite being in vogue, it's a term many – including tech savvy and clued-up entrepreneurs – don't quite have a handle on. Indeed, it's a fresh enough term to not yet feature in the online version of the Oxford English dictionary
@@ -89,7 +89,7 @@ Banking platforms rely heavily on [open source software especially for their inf
 
 Finally, note  the polish of [Opengamma](http://www.opengamma.com/), the open source risk and analytics platform. The high-profile funding they have received from industry leaders shows how far the industry has come in embracing open-source as a viable approach in fintech.
 
-# Why open source for Fintech?
+# Why open source for fintech?
 >The disruption we may expect to see on the horizon is for firms to move from mere consumers of [open source software] to major co-developers, like their silicon valley  counterparts.  ~ Jamie Edwards 
 
 Finance firms want to avoid vendor lock-in. When you deploy an open source project, you control the code. You have the freedom to go without the developer, or to choose a third-party integration partner, if that’s what makes the most sense to your business.
@@ -117,10 +117,10 @@ In a commercial open source environment, no member is able to commit code withou
 
 All that being said, there is no software system that is completely risk-free, but open-source software allows you to be proactive in detecting these risks.
 
-# Why Wealth Management as the next step in open source Fintech?
+# Why wealth management as the next step in open source fintech?
 The digital revolution is arriving later to wealth management than to other industries such as media and retail because the wealthiest investors are older. But 2015 looks like the year this industry is pulled into the next century, as the $41 trillion bubble of wealth works its way down to Generations X and Y.
 
-With the advent of robo advisors, the wealth management Fintech segment is exploding right now.
+With the advent of robo advisors, the wealth management fintech segment is exploding right now.
 
 Wealthfront is [KPMGs 2014 innovator of the year](http://fintechinnovators.com/company/wealthfront). Schwab just released their own ["intelligent" portfolio](https://intelligent.schwab.com/). (I'll debate the intelligence of their portfolio a little lower.) And it seems there's a new robo advisor on the block every day.
 
