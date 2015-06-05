@@ -8,21 +8,20 @@ TL;DR: Yes! And [wealthbot.io](http://wealthbot.io) is the platform to prove tha
 
 > Is Fintech ready for Open Source?
 
-The first time I asked this question was in Tisch Hall at the NYU Stern School of Business at an entrepreneurship festival. 
+The first time I asked this question was at a packed entrepreneurship festival l at the NYU Stern School of Business. 
 
-The topic of conversation was “Fintech Ventures – Making Money with Money”. 
+The topic of conversation was: “Fintech Ventures – Making Money with Money”. 
 
-The panel included innovators Eli Brovermen of Betterment, Vince Passione of LendKey and Vinay Patel of One Financial Holdings. 
+The panel included innovators Eli Brovermen of Betterment, Vince Passione of LendKey, and Vinay Patel of One Financial Holdings. 
 
-The auditorium was packed. 
 
 The answer? A resounding "Maybe". 
 
-I've been asking the question since. I've asked lawyers and fintech meetup groups. I asked the professor of Management Information Systems at Stern, the head of strategy at a major investment bank and the head of sales at Thinknum. 
+I've been asking the question ever since. I've asked lawyers and fintech meetup groups. I asked the professor of Management Information Systems at Stern, the head of strategy at a major investment bank, and the head of sales at Thinknum. 
 
-Sometime I get better than maybe, I get "That's a great idea, but how will you make money?" 
+Sometime I get better than “maybe,” - sometimes I get “That's a great idea, but how will you make money?”
 
-So instead of asking, we decided to find out for ourselves. But more on that later. First, let's go back to the beginning.
+So instead of asking, we decided to find out for ourselves. Here’s how it started: 
 
 # The Beginning, Sort of
 
@@ -30,19 +29,19 @@ So instead of asking, we decided to find out for ourselves. But more on that lat
 
 Linus Torvalds said this when he released the Linux source code to "the wild". At the time that meant posting it on a Usenet newsgroup, today he'd probably upload it to Github. 
 
-Of course Linus didn't invent the concept of open source, that honor is split among early day programmers who believed that the more eyes on the code the better. And the open source movement itself was launched by Richard Stallman in 1983.
+Of course Linus didn't invent the concept of open source, that honor is split among early day programmers who believed that the more eyes on the code the better.
 
-But Linus contribution could be considered the most influential. 
+But Linus’s contribution could be considered the most influential. 
 
-Wikipedia (another open sourced project) nicely sums up the impact of the linux kernel: "The Linux kernel has since expanded to support a huge array of computer architectures, many more than other operating systems or kernels. Linux rapidly attracted developers and users who adapted code from other free software projects for use with the new operating system. The Linux kernel has received contributions from nearly 12,000 programmers from more than 1,200 companies, including some of the largest software and hardware vendors."
+Wikipedia - another open sourced project - nicely sums up the impact of the Linux kernel: "The Linux kernel has since expanded to support a huge array of computer architectures, many more than other operating systems or kernels. Linux rapidly attracted developers and users who adapted code from other free software projects for use with the new operating system. The Linux kernel has received contributions from nearly 12,000 programmers from more than 1,200 companies, including some of the largest software and hardware vendors."
 
 # What is open source?
 Open source software is software whose source code is available for modification or enhancement by anyone.
 
-"Source code" is the part of software that most computer users don't ever see; it's the code computer programmers can manipulate to change how a piece of software—a "program" or "application"—works. Programmers who have access to a computer program's source code can improve that program by adding features to it or fixing parts that don't always work correctly.
+"Source code" is the part of software that most computer users don't ever see; it's the code computer programmers can manipulate to change how a piece of software — a "program" or "application" — works. Programmers, who have access to a computer program's source code, can improve that program by adding features to it or fixing parts that don't always work correctly.
 
 ## Current state of open source software, 50,000 foot view.
-Over the years, open source software has often surpassed its private competition in terms of security, reliability and utility. It's also slowly evolved from back-end building block (think Linux, Apache, PHP) reserved for the techiest of techies, into an effective tool for every user at every level of the full stack.
+Over the years, open source software has often surpassed its private competition in terms of security, reliability and utility. It's also slowly evolved from back-end building block (think: Linux, Apache, PHP) reserved for the techiest of techies, into an effective tool for every user at every level of the full stack.
 
  Good examples of open-source products are: 
 
@@ -56,9 +55,9 @@ Over the years, open source software has often surpassed its private competition
 # What is Fintech?
 ![fintech google trends](/images/Google_Trends_-_Web_Search_interest__fintech_-_Worldwide__2004_-_present.png)
 
-A contraction of the words finance and technology, fintech has become  increasingly bandied about in the media and in technology circles. Yet despite being in vogue, it's a term many – including tech savvy and clued up entrepreneurs – don't quite have a handle on. Indeed, it's a fresh enough term to not yet feature in the online version of the Oxford dictionary
+A portmanteau of the words “finance” and “technology,” fintech has become  increasingly bandied about in the media and in technology circles. Yet despite being in vogue, it's a term many – including tech savvy and clued-up entrepreneurs – don't quite have a handle on. Indeed, it's a fresh enough term to not yet feature in the online version of the Oxford English dictionary
 
-Taken at its broadest, Fintech is shorthand for ‘innovation in financial services’, whether that means new products from new startups, or the adoption of new approaches by existing players where technology is the key enabler.
+Taken at its broadest, fintech is shorthand for ‘innovation in financial services’, whether that means new products from new startups, or the adoption of new approaches by existing players where technology is the key enabler.
 source: http://www.ndrc.ie/2014/03/fintech/
 
 A recent report from Accenture found that global investment in fintech has skyrocketed from $930 million back in 2008 to nearly $3 billion in 2013. The UK and Ireland alone received over $700 million from investors between 2008 and 2013.
@@ -70,12 +69,12 @@ According to Bloomberg, bankers are leaving lucrative positions for no-salary te
 
 In fact, 86 percent of the bank chief executive officers surveyed by PWC last year said technological advances will have the greatest impact on banking.
 
-I love this image entitled *Unbundling A Bank*. Sounds poetic almost.
+I love this image entitled *Unbundling A Bank*. Sounds almost poetic.
 
 ![Bundling a Bank](/images/Unbundling-of-a-bank-V2-cropped.png)
 [By CNBC Insights](https://www.cbinsights.com/blog/disrupting-banking-fintech-startups/)
 
-Notice the large collection of wealth management startups on the right. We'll get to that a little later.
+Notice the large collection of wealth management startups on the right. More in a moment.
 
 Forbes covers [a few startups to watch](http://www.forbes.com/sites/ilyapozin/2014/12/14/15-fintech-startups-to-watch-in-2015/) and there's probably names you've heard of: 
 
@@ -88,32 +87,25 @@ So, even in this slow moving, highly regulated industry, open source hasn't just
 
 Banking platforms rely heavily on [open source software especially for their infrastructure](http://www.bankingtech.com/248232/open-source-middleware-is-everywhere-in-financial-services/).
 
-Finally, I'm especially impressed by the polish of [Opengamma](http://www.opengamma.com/), the open source risk and analytics platform. The high-profile funding they have received from industry leaders shows how far the industry has come in embracing open-source as a viable approach in Fintech.
-
-### An Aside: Financial Inclusion
-Open source is also being used in the fascinating world of Financial Inclusion - the delivery of financial services at affordable costs to sections of disadvantaged and low-income segments of society.
-
-There are many interesting examples of actual open source financial software aimed at helping to fulfill the overall mission of an open financial system. Check out [Mifos](http://mifos.org/) and [Cyclos](http://www.cyclos.org/), and [Hamlets](https://www.drupal.org/project/cforge) (developed by Community Forge), all of which are designed to help people set up their own financial institutions.
-
-A leader in the financial inclusion movement is the Mifos Initiative - a community-driven initiative that is positioning financial institutions to become modern and digitally connected providers of financial services to the poor. They publish the Mifos X open source platform, which is distributed for free and covers common financial inclusion needs.
+Finally, note  the polish of [Opengamma](http://www.opengamma.com/), the open source risk and analytics platform. The high-profile funding they have received from industry leaders shows how far the industry has come in embracing open-source as a viable approach in fintech.
 
 # Why open source for Fintech?
->The disruption we may expect to see on the horizon is for firms to move from mere consumers of OSS to major co-developers, like their silicon valley  counterparts.  ~ Jamie Edwards 
+>The disruption we may expect to see on the horizon is for firms to move from mere consumers of [open source software] to major co-developers, like their silicon valley  counterparts.  ~ Jamie Edwards 
 
 Finance firms want to avoid vendor lock-in. When you deploy an open source project, you control the code. You have the freedom to go without the developer, or to choose a third-party integration partner, if that’s what makes the most sense to your business.
 
 Now, more than ever, firms need a lower total cost of ownership for software. Price competition is razor sharp and firms can't afford to spend cash on outdated license models. Breaking down monopolies tends to result in lower costs for end users. Open source doesn’t equal free, but it does usually mean a radically smaller price tag.
 
-In addition to the cost benefits that can be realized by embracing open source, financial institutions are also able to enjoy greater levels of software innovation. 
+In addition to the cost benefits that can be realized by embracing open source, financial institutions will also able to enjoy greater levels of software innovation. 
 
 For example, in areas such as cloud computing and big data, **innovation is being driven by open source** – in these areas, it's no longer about whether to choose between a proprietary or an open source vendor, it's which open source vendors you choose.
 
 # Security Concerns
-Open source software is more secure than you think. In fact, experts argue that the transparent nature of open source software does not make it any less secure.
+Open source software is more secure than you think. In fact, experts argue that the transparent nature of open source software makes it more secure.
 
-It is also important to understand that validating a software’s security  strictly depends on your ability to audit it, to review it. And the audit of software depends on your access to the source code. 
+It is important to understand that validating a software’s security strictly depends on your ability to audit it. And the audit of software depends on your access to the source code. 
 
-While the audit of proprietary software depends on the cooperation of the software's owners, you can audit open source software whenever you want.
+While the audit of proprietary software depends on the cooperation of the software's owners, open source software can be audited as needed.
 
 This concern has become more and more severe as backdoors in well established software have been disclosed. In the face of this, the ongoing debate on whether open-source software increases software security or is detrimental to its security has become pointless. Only open-source software can be freely audited and therefore, proprietary software must be considered inherently insecure.
 
