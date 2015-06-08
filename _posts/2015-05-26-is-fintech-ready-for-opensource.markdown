@@ -92,13 +92,11 @@ Finally, note  the polish of [Opengamma](http://www.opengamma.com/), the open so
 # Why open source for fintech?
 >The disruption we may expect to see on the horizon is for firms to move from mere consumers of [open source software] to major co-developers, like their silicon valley  counterparts.  ~ Jamie Edwards 
 
-Finance firms want to avoid vendor lock-in. When you deploy an open source project, you control the code. You have the freedom to go without the developer, or to choose a third-party integration partner, if that’s what makes the most sense to your business.
+Now, more than ever, financial firms need a lower total cost of ownership for software. Price competition is razor sharp and firms can't afford to spend cash on outdated license models. Breaking down monopolies tends to result in lower costs for end users. Open source doesn’t equal free, but it does usually mean a radically smaller price tag.
 
-Now, more than ever, firms need a lower total cost of ownership for software. Price competition is razor sharp and firms can't afford to spend cash on outdated license models. Breaking down monopolies tends to result in lower costs for end users. Open source doesn’t equal free, but it does usually mean a radically smaller price tag.
+Plus, firms want to avoid vendor lock-in. When you deploy an open source project, you control the code. You have the freedom to go without the developer, or to choose a third-party integration partner, if that’s what makes the most sense to your business.
 
-In addition to the cost benefits that can be realized by embracing open source, financial institutions will also able to enjoy greater levels of software innovation. 
-
-For example, in areas such as cloud computing and big data, **innovation is being driven by open source** – in these areas, it's no longer about whether to choose between a proprietary or an open source vendor, it's which open source vendors you choose.
+In addition to the cost benefits that can be realized by embracing open source, financial institutions are also able to enjoy greater levels of software innovation. For example, in areas such as cloud computing and big data, **innovation is being driven by open source** – in these areas, it's no longer about whether to choose between a proprietary or an open source vendor, it's which open source vendors you choose.
 
 # Security Concerns
 Open source software is more secure than you think. In fact, experts argue that the transparent nature of open source software makes it more secure.
