@@ -1,0 +1,39 @@
+/*
+Error: Invalid CSS after "@import "reset"": expected "{", was ";"
+        on line 8 of /Users/genek149/Documents/Git_Repos/wealthbot-io.github.io/style.scss
+
+3: 
+4: //
+5: // IMPORTS
+6: //
+7: 
+8: @import "reset";
+9: @import "variables";
+10: // Syntax highlighting @import is at the bottom of this file
+11: 
+12: /**************\/
+13: /* BASE RULES *\/
+
+Backtrace:
+/Users/genek149/Documents/Git_Repos/wealthbot-io.github.io/style.scss:8
+/Users/genek149/Downloads/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:1165:in `expected'
+/Users/genek149/Downloads/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:1101:in `expected'
+/Users/genek149/Downloads/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:1096:in `tok!'
+/Users/genek149/Downloads/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:641:in `block'
+/Users/genek149/Downloads/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:635:in `ruleset'
+/Users/genek149/Downloads/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:660:in `block_child'
+/Users/genek149/Downloads/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:650:in `block_contents'
+/Users/genek149/Downloads/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:117:in `stylesheet'
+/Users/genek149/Downloads/CodeKit.app/Contents/Resources/engines/scss/lib/sass/scss/parser.rb:42:in `parse'
+/Users/genek149/Downloads/CodeKit.app/Contents/Resources/engines/scss/lib/sass/engine.rb:393:in `_to_tree'
+/Users/genek149/Downloads/CodeKit.app/Contents/Resources/engines/scss/lib/sass/engine.rb:268:in `render'
+/Users/genek149/Downloads/CodeKit.app/Contents/Resources/engines/scss/lib/sass/exec/sass_scss.rb:415:in `run'
+/Users/genek149/Downloads/CodeKit.app/Contents/Resources/engines/scss/lib/sass/exec/sass_scss.rb:63:in `process_result'
+/Users/genek149/Downloads/CodeKit.app/Contents/Resources/engines/scss/lib/sass/exec/base.rb:52:in `parse'
+/Users/genek149/Downloads/CodeKit.app/Contents/Resources/engines/scss/lib/sass/exec/base.rb:19:in `parse!'
+/Users/genek149/Downloads/CodeKit.app/Contents/Resources/engines/scss/bin/scss:13:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Invalid CSS after \"@import \"reset\"\": expected \"{\", was \";\"\A         on line 8 of /Users/genek149/Documents/Git_Repos/wealthbot-io.github.io/style.scss\A \A 3: \A 4: //\A 5: // IMPORTS\A 6: //\A 7: \A 8: @import \"reset\";\A 9: @import \"variables\";\A 10: // Syntax highlighting @import is at the bottom of this file\A 11: \A 12: /**************/\A 13: /* BASE RULES */"; }

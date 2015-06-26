@@ -18,7 +18,9 @@ html {
 }
 
 body {
-	background: $white;
+  border-top: 3px solid #D84A38;
+  background: #efefef;
+  background-image: url("../images/bg.png");
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -194,7 +196,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $raleway;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
