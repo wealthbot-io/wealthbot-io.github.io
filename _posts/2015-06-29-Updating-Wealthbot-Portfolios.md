@@ -15,7 +15,7 @@ I've been getting a lot of questions lately about the portfolio models pre-insta
 
 My answer? That's fantastic! 
 
-In fact, I want every Investment Advisor that installs Webo or any indiviual that sets up Webo up for home use to define his or her own portfolio models. That's where Webo shines, is in customizability and flexiblity. 
+In fact, I want everyone that sets up Webo define his or her own portfolio models. There's no better way to learn about investing and it's where Webo shines ... in customizability and flexiblity. 
 
 And, I want to clarify that the asset allocation models in the demo version of Webo are **not investment advice**. The data is just to illustrate what the system looks like when it's set up.
 
