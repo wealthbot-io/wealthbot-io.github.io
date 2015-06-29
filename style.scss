@@ -109,7 +109,24 @@ strong, b {
 }
 
 img {
-  max-width: 100%;
+max-width: 100%;
+filter: "progid:DXImageTransform.Microsoft.Dropshadow(OffX=12, OffY=12, Color='#444')";
+filter: url(#drop-shadow);
+-webkit-filter: drop-shadow(12px 12px 7px rgba(0,0,0,0.5));
+filter: drop-shadow(12px 12px 7px rgba(0,0,0,0.5));
+display: block;
+margin: auto;
+padding-bottom: 2em;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid #999;
+  padding: 0.5rem;
+  text-align: left;
 }
 
 // Fixes images in popup boxes from Google Translate
