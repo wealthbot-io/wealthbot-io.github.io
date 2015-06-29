@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Updating Wealthbot Portfolios
-date: {}
+date: 2015-06-29 19:29:56
 categories: opensource symfony
 published: true
 ---
