@@ -15,7 +15,7 @@ I've been getting a lot of questions lately about the portfolio models pre-insta
 
 My answer? That's fantastic! 
 
-In fact, I want everyone who sets up Webo to define his or her own portfolio models. There's no better way to learn about investing and it's where Webo shines ... in customizability and flexiblity. 
+In fact, I want everyone who sets up Webo to define his or her own portfolio models. There's no better way to learn about investing and it's where Webo shines ... in customizability and flexibility. 
 
 And, I want to clarify that the asset allocation models in the demo version of Webo are **not investment advice**. The data is just to illustrate what the system looks like when it's set up.
 
@@ -28,11 +28,11 @@ Seems like a good idea.
 Plus it gives me an interesting way of exploring how **Symfony's Fixtures** are used in Webo.
 
 ## Symfony Fixtures
-Data is prepopulated in all wealthbot.io installs using [Symfony's Doctrorine Fixtures](symfony.com/doc/current/bundles/DoctrineFixturesBundle/index.html). As the documentation states: 
+Data is prepopulated in all wealthbot.io installs using [Symfony's Doctrine Fixtures](symfony.com/doc/current/bundles/DoctrineFixturesBundle/index.html). As the documentation states: 
 
 > Fixtures are used to load a controlled set of data into a database. This data can be used for testing or could be the initial data required for the application to run smoothly.
 
-That being said, we are using Fixtures in a bit of an unusual way for wealthbot.io. We're loading both seed data and unit test data with the same Fixtures files. BIG no-no, but the plan is to seperate that out in the next few releases.
+That being said, we are using Fixtures in a bit of an unusual way for wealthbot.io. We're loading both seed data and unit test data with the same Fixtures files. BIG no-no, but the plan is to separate that out in the next few releases.
 
 ---
 
@@ -86,7 +86,7 @@ Preloaded in the *$categories* array we have 4 asset classes and a few subclasse
 | 0 | *Domestic Stocks* | 0 - Large, 1 - Large Value, 2 - Small, 3 - Small Value |
 | 1 | *International Stocks* | 0 - Large, 1 - Large Value, 2 - Small, 3 - Small Value, 4 - Emerging Markets, 5 - REITS |
 | 2 | *Alternatives* | 0 - Commodities, 1 - REITs, 2- International REITs |
-| 3 | *Bonds* | 0 - Intermedieate, 1 - Short, 2- Long |
+| 3 | *Bonds* | 0 - Intermediate, 1 - Short, 2- Long |
 
 
 These asset classes aren't the best setup for our two-fund, world stock market portfolio. But that's a problem for another post.
@@ -111,7 +111,7 @@ Let's quickly cover the important settings in this array.
 * *risk_rating*: this rating recommends your model based on the client's risk assessment number
 * *asset_class_index* & *subclass_index*: see table above
 * *security* = the security symbol. 
-* *muni_substitution_security* & *tax_loss_harvesting_security* = which security to use in the MI and TLH senarios defined for this portfolio
+* *muni_substitution_security* & *tax_loss_harvesting_security* = which security to use in the MI and TLH scenarios defined for this portfolio
 
 Securities Fixtures are in LoadSecurityData.php, and I quickly checked for 'BND' and 'VT'. 'BND' already existed, but 'VT' did not. Here's the array I added just below 'Vanguard Total Stock Market ETF', in '$securites'.
 
