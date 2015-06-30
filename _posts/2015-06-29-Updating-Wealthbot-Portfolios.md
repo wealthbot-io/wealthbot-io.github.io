@@ -11,17 +11,17 @@ I've been getting a lot of questions lately about the portfolio models pre-insta
 
 ![webo models](/images/webo_org_models.png)
 
-> What if I want to recommend my own portfolios models?
+> What if I want to recommend my own portfolio models?
 
 My answer? That's fantastic! 
 
-In fact, I want everyone that sets up Webo define his or her own portfolio models. There's no better way to learn about investing and it's where Webo shines ... in customizability and flexiblity. 
+In fact, I want everyone who sets up Webo to define his or her own portfolio models. There's no better way to learn about investing and it's where Webo shines ... in customizability and flexiblity. 
 
 And, I want to clarify that the asset allocation models in the demo version of Webo are **not investment advice**. The data is just to illustrate what the system looks like when it's set up.
 
 But the questions did get me thinking... 
 
-Should we preset some protfolios? Not ones that we personally created and recommend, but some that are freely available online and put together by people a lot smarter than me. 
+Should we preset some portfolios? Not ones that we personally created and recommend, but some that are freely available online and put together by people a lot smarter than me. 
 
 Seems like a good idea.
 
