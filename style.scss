@@ -5,8 +5,8 @@
 // IMPORTS
 //
 
-@import "reset";
-@import "variables";
+@import 'reset';
+@import 'variables';
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -18,10 +18,9 @@ html {
 }
 
 body {
-  border-top: 3px solid #D84A38;
-  background: #efefef;
-  background-image: url("../images/bg.png");
-  font: 18px/1.4 $helvetica;
+  border-top: 3px solid #428bca;
+  background: $white;
+  font: 18px/1.4 $sansserif;
   color: $darkGray;
 }
 
@@ -196,6 +195,8 @@ td, th {
 
   img {
     border-radius: 5px;
+    filter: none;
+    -webkit-filter: none;
   }
 }
 
@@ -231,9 +232,11 @@ td, th {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 18px;
+  margin: 23px; // @TODO: Vertically middle align
+  font-family: $sansserif;
+  font-size: 14px;
+  text-transform: uppercase;
+
 
   @include mobile {
     float: none;
@@ -244,10 +247,12 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    margin-right: 3px;  
+    color: $gray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
+      
 
     @include mobile {
       margin: 0 10px;
