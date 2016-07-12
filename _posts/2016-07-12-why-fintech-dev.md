@@ -88,9 +88,11 @@ Why not contribute to some fintech projects? It can be a great learning opportun
 
 As a final "argument", I put together a by-the-numbers presentation that shows just how impactful open source has been and will be on the fintech industry.
 
-{%raw%}
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/9xx665634Hcgjd" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/GeneKobilansky/fintech-open-source" title="Fintech Open Source" target="_blank">Fintech Open Source</a> </strong> from <strong><a href="//www.slideshare.net/GeneKobilansky" target="_blank">Gene Kobilansky</a></strong> </div>
-{% endraw %}
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/9xx665634Hcgjd" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+
+<div style="margin-bottom:5px"> 
+<strong> <a href="//www.slideshare.net/GeneKobilansky/fintech-open-source" title="Fintech Open Source" target="_blank">Fintech Open Source</a> </strong> from <strong><a href="//www.slideshare.net/GeneKobilansky" target="_blank">Gene Kobilansky</a></strong></div>
 
 
 ## Open Source Software To Explore
