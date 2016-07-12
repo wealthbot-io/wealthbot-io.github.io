@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why Do Devs Get Into Fintech?"
-date: 2016-06-29 19:29:56
+date: 2016-07-12 19:29:56
 categories: opensource fintech development
 comments: true
 ---
