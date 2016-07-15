@@ -15,6 +15,7 @@ It's split into 2 parts:
 2. Best way to get into the industry (hint: Open Source Software)
 
 ## The 5 Reasons For Fintech
+
 ### 1. Highest salaries
 The highest salaries in finance are for developers and the highest salaries for developers are in finance.[1]
 
